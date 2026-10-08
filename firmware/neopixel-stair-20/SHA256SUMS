@@ -1,0 +1,6 @@
+95972f539301c7800b6bab8eb4e81a0618d550f01827596e40e86f4769aeae95  ./README.md
+9c032555770cc40bb36cec4ab35588c4e311fec84041d62bb82661e1ee47fb70  ./build.sh
+f79b82b6635ccb71fecae04250b5c0170177e6f179dfc8b4b8d974014ac95f23  ./prebuilt/neopixel-stair-20-blackpill-f401cc.bin
+429e33169a34c8026198a74fb419f2d3fe2040fcbe53b6e4fec45ee2b699cd67  ./prebuilt/neopixel-stair-20-blackpill-f401cc.uf2
+5cc81b1119c0c488c6ea53aab963bbc659eca686342bf7773beb3d80e662ee3d  ./src/neopixel_stair_20/neopixel_stair_20.ino
+84525ccd6edf61dac942ee00ef7199bd97598129f7a8467b0b71f4e5afb69251  ./verify_release.py

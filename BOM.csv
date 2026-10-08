@@ -1,0 +1,24 @@
+category,item,required_quantity,recommended_purchase,specification,status,notes
+electronics,WeAct BlackPill STM32F401CCU6,1,1,USB-C version; TinyUF2-compatible,required,Firmware target
+electronics,Individual WS2812B-compatible NeoPixel module,20,25,5 V; GRB 800 kHz; small round breakout PCB,required,Five spares recommended
+electronics,Data-line resistor 310 ohm,1,assortment,270–330 ohm acceptable,required,Between PA8 and first DIN
+electronics,Perfboard,1,1–2,70 x 90 mm; 2.54 mm pitch; plated through-holes,required,Controller and power distributor
+electronics,USB-C receptacle power breakout,6,7–10,Must match enclosure opening; fixed 5 V use only,required,One input plus five outputs
+electronics,USB-C male solder breakout,5,10,Power-only with large solder pads,required,Custom building power leads
+electronics,3-pin JST plug/socket pair,1,5 pairs,JST-XH-style; 5 V/data/GND,required,Controller-box staircase connection
+electronics,2.54 mm socket header,40 contacts,2 strips,For two BlackPill header rows,required,Removable MCU mounting
+electronics,2.54 mm breakaway headers,12 contacts,1 male + 1 female strip,Three contacts per modular staircase connection,recommended,Cut from standard strips
+wiring,Flexible hookup wire red/black/yellow 26 AWG,1–2 m each,small reels,Stranded,required,NeoPixels and visible building leads
+wiring,Flexible hookup wire red/black 20–22 AWG,0.5 m each,small reels,Stranded,required,Internal 5 V star distribution
+wiring,Heat-shrink tubing,as needed,assortment,For wire gauges used,recommended,Insulation and strain relief
+power,Regulated 5 V supply,1,1,5 V / 3 A verified for the 1.75 A photographed build; 5 V / 5 A expansion target,required,Plain 5 V only; size from measured connected load
+power,5 V input cable,1,1,Known plain-5-V power path,required,Do not assume full advertised PD wattage
+mechanical,M3 heat-set insert,up to 86,100,Approx. 4.6 mm OD and 5–6 mm length; CAD pocket 4.5 mm,required,CAD includes optional positions
+mechanical,M3 socket-head screw,project-dependent,150–200 assorted,M3 x 8/10/12/16/20/25/30 mm,required,Final lengths depend on selected mounting positions
+mechanical,M3 washer,optional,100,M3,recommended,Alignment and plastic bearing surfaces
+mechanical,Table mounting screw,table-dependent,as required,Select for actual tabletop construction,required,Not universally specifiable
+consumable,ABS/ASA dark blue filament,not exact,4 x 1 kg,1.75 mm; dimensionally stable brand,required,Planning quantity with reserve; reslice for exact use
+consumable,ABS/ASA medium-grey filament,not exact,3 x 1 kg,1.75 mm; dimensionally stable brand,required,Planning quantity with reserve; reslice for exact use
+consumable,Natural/transparent filament,about 100 g,at least 250 g,Compatible with diffuser geometry,required,Original diffusers used 100 percent infill
+consumable,Plastic adhesive,as needed,1,CA suitable for ABS/ASA or ABS solvent cement,required,Truss shell/inlay bonding
+consumable,Solder and flux,as needed,1 set,Electronics grade,required,Controller and LED wiring

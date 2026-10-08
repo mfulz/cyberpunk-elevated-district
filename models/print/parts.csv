@@ -1,0 +1,24 @@
+part,quantity,assembly_label,print_orientation,size_x_mm,size_y_mm,size_z_mm,note
+upper-platform-large,1,Upper Platform - Large,flip-x,310.000,300.000,62.526,Print upside down; integrated mounts point upward.
+upper-platform-small,1,Upper Platform - Small,flip-x,215.000,211.200,62.526,Print upside down; integrated mounts point upward.
+table-anchor-frame,1,Table Anchor Frame,flip-x,320.000,319.800,170.000,Large flat face on build plate.
+main-staircase-15-step,1,Main Staircase - 15-Step Module,as-designed,135.000,300.000,150.000,Base on build plate.
+lower-deck-plate-01,1,Lower Deck Plate 01,flip-x,159.800,250.000,60.000,Print upside down; integrated mounts point upward.
+lower-deck-plate-02,1,Lower Deck Plate 02,flip-x,330.000,290.000,60.000,Print upside down; integrated mounts point upward.
+lower-deck-plate-03,1,Lower Deck Plate 03,flip-x,180.000,169.800,15.000,Print upside down; integrated mounts point upward.
+lower-deck-plate-04,1,Lower Deck Plate 04,flip-x,330.000,169.800,15.000,Print upside down; integrated mounts point upward.
+lower-truss-rear-shell,3,Lower Truss 01 - Rear Shell,largest-face,111.087,264.485,4.000,One unique model; print three copies.
+lower-truss-front-shell,3,Lower Truss 01 - Front Shell,largest-face,264.485,111.087,4.000,One unique model; print three copies.
+lower-truss-inlay,3,Lower Truss 01 - Inlay,largest-face,200.277,72.331,4.000,One unique model; print three copies.
+upper-truss-long-shell,4,Upper Truss 01 - Rear Shell,largest-face,241.795,172.926,4.000,Rear/front geometry is identical; print four copies.
+upper-truss-long-inlay,2,Upper Truss 01 - Inlay,largest-face,224.301,171.930,4.000,One unique model; print two copies.
+upper-truss-short-shell,4,Upper Truss 03 - Rear Shell,largest-face,150.239,204.522,4.000,Rear/front geometry is identical; print four copies.
+upper-truss-short-inlay,2,Upper Truss 03 - Inlay,largest-face,148.473,186.732,4.000,One unique model; print two copies.
+neopixel-standard-carrier,15,NeoPixel Stair Light - LED Carrier,as-designed,19.200,19.200,4.200,For the 15-step main staircase.
+neopixel-standard-diffuser,15,NeoPixel Stair Light - Diffuser,as-designed,24.200,40.800,4.800,Transparent material; for the 15-step main staircase.
+neopixel-standard-spacer,14,NeoPixel Stair Light - Spacer,as-designed,19.200,19.200,10.000,One main-stair LED is installed without a spacer.
+upper-staircase-5-step,1,Upper Staircase - 5-Step Module,as-designed,254.628,107.137,200.000,Base on build plate.
+electronics-enclosure-base,1,Electronics Enclosure - Base,as-designed,80.000,100.000,29.800,Bottom on build plate.
+electronics-enclosure-lid,1,Electronics Enclosure - Lid,flip-x,80.000,100.000,25.200,Outer top surface on build plate.
+upper-stair-neopixel-carrier-adapter,5,Upper-stair light correction,as-designed,24.200,39.200,14.600,Correction carrier for the five upper-stair LEDs.
+upper-stair-neopixel-diffuser,5,Upper-stair light correction,as-designed,24.200,40.800,4.400,Correction diffuser for the five upper-stair LEDs.

@@ -1,0 +1,7 @@
+*.FCStd1
+*.bak
+*.tmp
+.DS_Store
+__pycache__/
+firmware/neopixel-stair-20/build/
+
